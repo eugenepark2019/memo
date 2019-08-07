@@ -1,0 +1,23 @@
+Install Ruby
+
+1.Ruby Installer
+
+2.Downloads (for window)
+
+3. Development kit(old)
+
+Step to installs on command prompt
+
+gem update rails
+rails -v 
+:(check this for what version of rails you installs)
+gem install bundler
+gem update rals 
+:(update for latest version)
+rails new eict
+:(create new file name you create )
+cd euct
+dir
+rails server
+
+check your web browser http:\\localhost3000
