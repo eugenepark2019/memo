@@ -201,3 +201,19 @@ New features should be based on HTML,CSS,DOM and JavaScript
 Better error handling
 More marke up to replace scripting
 
+indentation
+-->(글의 행 시작 부분에)들여쓴 자리,자국
+appropriate
+-->적절한/(특히 돈의 사용처를 )책정하다
+(불법적으로 무단으로)도용하다
+
+pramiter -> 값이 주어지지 않은
+agurment ->실제 값이 주어진
+
+Perform a task
+Return a value
+
+execution context :실행 컨텍스트
+context:전후 사정 
+-->His desiciton can only be understood in context.
+You chould be able to guess the meaning of the word from the context.(문맥을 통해 단어의 의미를 추측할 수 있어야 한다.)
